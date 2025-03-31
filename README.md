@@ -8,7 +8,7 @@
 
 프로그램 동작 환경: Windows
 
-사용 프로그램: Eclips
+사용 프로그램: Eclips -> IntelliJ IDEA 2023.3.4
 
 사용언어: JAVA SE-17
 
